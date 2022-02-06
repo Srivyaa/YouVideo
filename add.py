@@ -1,3 +1,4 @@
-a = 1
-b = 2
-print (a + b)
+a = 5
+b = 10
+c = 15
+print (a + b + c)
